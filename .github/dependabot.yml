@@ -19,3 +19,10 @@ updates:
     labels:
       - "dependencies"
       - "autoupdate"
+  - package-ecosystem: "gradle" # See documentation for possible values
+    directory: "/gradle" # Location of package manifests
+    schedule:
+      interval: "daily"
+    labels:
+      - "dependencies"
+      - "autoupdate"
