@@ -14,7 +14,7 @@ dependencies {
     implementation(libs.groovy.core)
     implementation(libs.groovy.json)
     implementation(libs.groovy.nio)
-    implementation("org.apache.groovy:groovy-sql:3.0.8")
+    implementation("org.apache.groovy:groovy-sql:4.0.3")
 
 }
 
