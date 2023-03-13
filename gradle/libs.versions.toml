@@ -2,7 +2,7 @@
 groovy = "3.0.5"
 checkstyle = "8.37"
 jupiter = "5.6.0"
-flyway = "8.1.0"
+flyway = "9.15.2"
 
 [libraries]
 groovy-core = { module = "org.codehaus.groovy:groovy", version.ref = "groovy" }
