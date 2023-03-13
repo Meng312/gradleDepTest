@@ -1,7 +1,7 @@
 [versions]
 groovy = "3.0.5"
 checkstyle = "8.37"
-jupiter = "5.6.0"
+jupiter = "5.9.2"
 flyway = "8.1.0"
 
 [libraries]
